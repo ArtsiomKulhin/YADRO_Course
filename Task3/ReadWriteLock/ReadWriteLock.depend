@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1779873132 source:d:\yadro_course\task3\readwritelock\main.cpp
+	<iostream>
+	<mutex>
+	<condition_variable>
+	<thread>
+	<chrono>
+	<vector>
+
